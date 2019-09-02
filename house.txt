@@ -36,4 +36,16 @@
   /^ ^  ^ ^^  ^    ||___|___||||||||||||___|__|||      /||o||||||\
  / ^   ^   ^    ^  ||___|___||||||||||||___|__|||          | |
 / ^ ^ ^  ^  ^  ^   ||||||||||||||||||||||||||||||oooooooooo| |ooooooo
-ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo 
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+        __-------__
+      / _---------_ \
+     / /           \ \
+     | |           | |
+     |_|___________|_|
+ /-\|                 |/-\
+| _ |\       0       /| _ |
+|(_)| \      !      / |(_)|
+|___|__\_____!_____/__|___|
+[_______|TeamRocket|______] 
+ ||||    ~~~~~~~~     ||||
+ `--'                 `--'
